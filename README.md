@@ -12,7 +12,7 @@ The dataset used for this project consists of high-quality images of potato leav
 # Installation
 To set up the project environment and dependencies, follow these steps:
 
-1.Clone this repository: git clone https://github.com/satheeshbhukya/potato-leaf-disease-classification-git
+1.Clone this repository: git clone https://github.com/satheeshbhukya/potato-leaf-disease-classification-
 2.Navigate to the project directory: cd potato-leaf-disease-classification
 3.Create a virtual environment: python -m venv venv
 4.Activate the virtual environment:
