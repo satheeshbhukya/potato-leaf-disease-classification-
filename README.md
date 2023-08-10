@@ -12,19 +12,27 @@ The dataset used for this project consists of high-quality images of potato leav
 # Installation
 To set up the project environment and dependencies, follow these steps:
 
+
 1.Clone this repository: git clone https://github.com/satheeshbhukya/potato-leaf-disease-classification-
+
 2.Navigate to the project directory: cd potato-leaf-disease-classification
+
 3.Create a virtual environment: python -m venv venv
+
 4.Activate the virtual environment:
  > On Windows: venv\Scripts\activate
  > On macOS and Linux: source venv/bin/activate
+
 5.Install dependencies: pip install -r requirements.txt
 
 # Usage 
 To use the trained model for potato leaf disease classification, follow these instructions:
 
+
 1.Prepare your input image(s) of potato leaves.
+
 2.Run the classification script: python classify.py --image path_to_your_image.jpg
+
 3.The script will output the predicted disease class for the input image.
 
 # Model
